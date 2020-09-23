@@ -1,0 +1,9 @@
+{
+  "name": "movie_api_ql",
+  "version": "1.0.0",
+  "description": "Movie API with Graphql",
+  "main": "index.js",
+  "repository": "https://github.com/Gyeonghun-Park/movie_api_ql.git",
+  "author": "Gyeonghun Park<gp112795%@gmail.com>",
+  "license": "MIT"
+}
